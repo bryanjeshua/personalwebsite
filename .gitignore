@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Django migrations
+*/migrations/
+
+# Database files
+*.sqlite3
+
+# PyCharm or VS Code specific
+.idea/
+.vscode/
+
+# Environment variables (if using a .env file)
+.env
